@@ -1,12 +1,12 @@
  table {
-            background-color: yellow;
+            background-color: rgb(255, 255, 0);
 	 
         }
         th, td, tr {
             border: 1px solid black;
         }
         th {
-            background-color: yellow;
+            background-color: rgb(255, 255, 0);
         }
         caption {
             font-weight: bold; 
